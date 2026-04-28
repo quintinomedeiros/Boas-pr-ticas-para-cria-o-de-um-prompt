@@ -71,6 +71,18 @@ Este caderno temático foi organizado para estudar boas práticas de prompt engi
 
 22. [COMO FAZER o CHATGPT DAR RESPOSTAS 100% CORRETAS - SACANI Ensina](https://www.youtube.com/watch?v=X51KsjOa41E)
     Como a Inteligência Artificial pode causar o fim da humanidade (com Sérgio Sacani)
-    
+
+23. [https://www.rocketseat.com.br/blog/artigos/post/como-escrever-prompts-para-chatgpt](https://www.rocketseat.com.br/blog/artigos/post/como-escrever-prompts-para-chatgpt)
+   O guia para escrever prompts incríveis
+
+24. [https://blog.brasilacademico.com/2025/06/guia-completo-de-engenharia-de-prompt.html](https://blog.brasilacademico.com/2025/06/guia-completo-de-engenharia-de-prompt.html)
+   Guia Completo de Engenharia de Prompt
+
+25. [https://chatgptbrasil.com.br/2026/01/21/framework-completo-de-prompt-engineering-para-todos-os-modelos-de-ia-em-2026/](https://chatgptbrasil.com.br/2026/01/21/framework-completo-de-prompt-engineering-para-todos-os-modelos-de-ia-em-2026/)
+   Framework Completo de Prompt Engineering para Todos os Modelos de IA em 2026
+
+26. https://www.flowhunt.io/es/glosario/metaprompt/](https://www.flowhunt.io/es/glosario/metaprompt/)
+   Metaprompt - Conceitos e Práticas
+
 ## Engenharia de Prompts e "Cicatrizes":
 1. A principal dor é ter que refinar o prompt para que possa se aproximar mais das necessidades que tinha, pois inicialmente, nem o criador do prompt tem muito claro o que precisa e com as respostas pode também aprimorar o que está pedindo e obtendo, quanto entendendo melhor o que precisa.
