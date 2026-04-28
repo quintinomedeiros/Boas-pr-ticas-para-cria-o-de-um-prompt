@@ -1,11 +1,11 @@
 # Aprendendo a criar um prompt para obter as melhores respostas das IAs
 
 
-##Contexto e Objetivos:
+## Contexto e Objetivos:
 Este caderno temático foi organizado para estudar boas práticas de prompt engineering aplicadas à interação com IAs generativas. O foco é entender como formular instruções mais claras, consistentes e úteis, reduzindo ambiguidades e melhorando a qualidade das respostas. A base do estudo considera que prompt engineering é um processo iterativo: escrever, testar, ajustar e avaliar resultados.
 
 
-##Curadoria de Fontes:
+## Curadoria de Fontes:
 1. [OpenAI — Prompting](https://developers.openai.com/api/docs/guides/prompting)  
    Guia oficial com fundamentos e estratégias de prompt.
 
@@ -52,5 +52,5 @@ Este caderno temático foi organizado para estudar boas práticas de prompt engi
     Galeria de exemplos úteis para inspirar e testar prompts.
 
 
-##Engenharia de Prompts e "Cicatrizes":
+## Engenharia de Prompts e "Cicatrizes":
 1. A principal dor é ter que refinar o prompt para que possa se aproximar mais das necessidades que tinha, pois inicialmente, nem o criador do prompt tem muito claro o que precisa e com as respostas pode também aprimorar o que está pedindo e obtendo, quanto entendendo melhor o que precisa.
