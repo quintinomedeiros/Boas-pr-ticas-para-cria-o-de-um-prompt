@@ -51,6 +51,20 @@ Este caderno temático foi organizado para estudar boas práticas de prompt engi
 15. [Google AI Gemini API — Prompt Gallery](https://ai.google.dev/gemini-api/prompts)  
     Galeria de exemplos úteis para inspirar e testar prompts.
 
+16. [Engenharia De Prompt: 7 Passos Para O Prompt Perfeito | ChatGPT/(https://www.youtube.com/watch?v=oFGXr2pgKLY)
+    Entenda como criar um prompt phod@ no ChatGPT através da Engenharia de Prompt.
+   
+17. [44 VÍDEOS que vão mudar seu entendimento sobre prompts PARA SEMPRE](https://www.youtube.com/watch?v=GA2m-1m4zxk&list=PLbmt8d_ueDMV76q66QhK0EmyM93Zh7l5Y)
+    Quer dominar o ChatGPT? Confira nosso primeiro vídeo da série e aprenda a criar prompts efetivos usando delimitadores de texto! 
 
+18. [Como criar ótimos prompts nas últimas atualizações das IAs](https://www.youtube.com/watch?v=uPR2PutJ6c0)
+    O especialista em inteligência artificial Pedro Burgos atualiza o que se sabe sobre gerar os melhores prompts para as ferramentas de IA com base em estudos científicos atuais.
+
+19. [Como criar ÓTIMOS PROMPTS na prática com 5 TÉCNICAS](https://www.youtube.com/watch?v=xA7PdN_mLJ8)
+    Neste vídeo, Bruno Pimenta explica o que é Engenharia de Prompt e apresenta 5 técnicas práticas para você criar comandos eficazes.
+
+20. [COMO FAZER o CHATGPT DAR RESPOSTAS 100% CORRETAS - SACANI Ensina](https://www.youtube.com/watch?v=X51KsjOa41E)
+    Como a Inteligência Artificial pode causar o fim da humanidade (com Sérgio Sacani)
+    
 ## Engenharia de Prompts e "Cicatrizes":
 1. A principal dor é ter que refinar o prompt para que possa se aproximar mais das necessidades que tinha, pois inicialmente, nem o criador do prompt tem muito claro o que precisa e com as respostas pode também aprimorar o que está pedindo e obtendo, quanto entendendo melhor o que precisa.
